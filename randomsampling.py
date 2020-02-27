@@ -1,6 +1,6 @@
 #测试数据，后期直接采用函数调用
 fir = 1
-last = 50
+last = 20
 
 #返回所需抽样数量sample_number
 total_number = last-fir+1 #样本数量
